@@ -1,3 +1,5 @@
+#Day 2: 05/30/26
+#p3.py but better
 print("math quiz:")
 choice = input("do you want to play (Y/N)").lower()
 count = 0
