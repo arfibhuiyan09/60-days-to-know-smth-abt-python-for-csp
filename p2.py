@@ -1,4 +1,5 @@
 #Day 1: 05/29/26
+#4 func calc
 while True:
     print("do you want to add, subtract, multiply, or divide?")
     choice = input().lower()
