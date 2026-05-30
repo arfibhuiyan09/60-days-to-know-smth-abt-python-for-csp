@@ -1,3 +1,4 @@
+#Day 2: 05/30/26
 print("math quiz:")
 print("do you want to play (Y/N)")
 choice = input().lower()
