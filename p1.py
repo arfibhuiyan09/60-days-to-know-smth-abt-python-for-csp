@@ -1,3 +1,4 @@
+#Day 1: 05/29/26
 print("give 5 grades (in %) to avg")
 g1 = float(input("Grade 1:"))
 g2 = float(input("Grade 2:"))
