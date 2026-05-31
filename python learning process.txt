@@ -22,6 +22,8 @@ Day 1: (05/29/26)
     Skills Learned:
       *dictionaries (?)
       *randint(x,y)
+      *parameters
     Projects:
       2 player fighting sim (p8.py)
+      music stat card creator (p9.py)
     
