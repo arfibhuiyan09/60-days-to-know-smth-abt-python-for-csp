@@ -1,3 +1,5 @@
+# 2 player fighting game /// 05/31/26 /// Day 3
+
 import random
 def fighter_initialization():
     name1 = input("Enter the name of your first fighter:  ")
