@@ -23,7 +23,9 @@ Day 1: (05/29/26)
       *dictionaries (?)
       *randint(x,y)
       *parameters
+      * if not, in, as, is, etc
     Projects:
       2 player fighting sim (p8.py)
       music stat card creator (p9.py)
+      number guessing game (p10.py)
     
