@@ -1,3 +1,5 @@
+#music stat card generator /// 05/31/26 /// Day 3
+
 def display_card(song_name, artist_name, plays, score, genre_tag):
       print(f"Title:  {song_name}")
       print(f"Artist:  {artist_name}") 
