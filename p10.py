@@ -1,13 +1,16 @@
+#number guessing game /// 05/31/26 /// Day 3
+
 import random
 count=1
 attempts=7
 guess=0
 win=0
+min, max = 1, 1000
 
 while not win:
     choice = input("want to play number game (Y/N) ").lower().strip()
     if choice == "y":
-        number = random.randint(1,4)
+        number = random.randint(min,max)
         while True:
             guess = int(input(f"oka guess a random number from a 1-1000. You have {attempts} attempts left "))
             if guess > number:
@@ -24,6 +27,8 @@ while not win:
                 break
             if attempts == 0:
                 print("You have ran out of attempts...")
+                attempts = 7
+                guess = 0
                 break
             
     elif choice == "n":
