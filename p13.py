@@ -1,3 +1,7 @@
+# Day 5 (06/03/26):
+# a fun fact generator + quiz by using e v e r y t h i n g . 
+# (its very unoptimised tho (800+ lines))
+
 import random
 import time
 
