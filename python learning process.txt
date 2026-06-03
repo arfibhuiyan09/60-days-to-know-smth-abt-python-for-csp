@@ -28,4 +28,11 @@ Day 1: (05/29/26)
       2 player fighting sim (p8.py)
       music stat card creator (p9.py)
       number guessing game (p10.py)
+  Day 5: (05/03/26)
+    Skills Learned:
+      * import time
+      * random.shuffle()
+      * round(x,y)
+    Projects:
+      fun fact generator + quiz (p13.py)
     
