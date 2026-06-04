@@ -7,6 +7,7 @@ Day 1: (05/29/26)
   Projects:
     Grade Calc (p1.py)
     4 func calc (p2.py)
+----------------------------------------------
   Day 2: (05/30/26)
     Skilled learned:
       * for loops
@@ -18,6 +19,7 @@ Day 1: (05/29/26)
     Projects:
       math quiz (p4.py)
       playlist organiser (p5,6,7.py) 
+----------------------------------------------
   Day 3: (05/31/26)
     Skills Learned:
       *dictionaries (?)
@@ -28,8 +30,10 @@ Day 1: (05/29/26)
       2 player fighting sim (p8.py)
       music stat card creator (p9.py)
       number guessing game (p10.py)
+----------------------------------------------
     Day 4:
     N/A
+----------------------------------------------
     Day 5: (06/03/26)
     Skills Learned:
       * import time
@@ -37,4 +41,12 @@ Day 1: (05/29/26)
       * round(x,y)
     Projects:
       fun fact generator + quiz (p13.py)
-
+----------------------------------------------
+  Day 6: 
+    Skills Learned:
+      * continue
+      * range validation via if not
+      * try, except barely
+    Projects:
+      final grade calculator (p14.py)
+----------------------------------------------
