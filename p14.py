@@ -5,17 +5,31 @@ while True:
     try:
         grade_input = input("Enter your current grade in your course: (eg. 45% = 45, 60.10% = 60.10) ")
         grade = float(grade_input)
-    
+
+        if not (0 < grade <= 100):
+            print(f"--> Error: {grade} is a invalid grade, your grade should be BETWEEN 0, and 100.")
+            print("\n")
+            continue
+
         weight_input = input("enter the weight of the final in your course: (in decimal eg. 0.2 = 20%) ")
         weight = float(weight_input)
-        
+
+        if not (0 < weight <= 1):
+            print(f"--> Error: {weight} is a invalid weight, your weightshould be between 0, and 1.")
+            print("\n")
+            continue
+        if weight == 0:
+            print("--> Error: your weight has to be BETWEEN 0 and 1, pick a different weight (your weight couldnt be 0 anyways unless it was a pre-test)")
+            print("\n")
+            continue
+
         goal_input = input("what grade would you want to have in the course overall: (eg. 98% = 98, 86.78% = 86.78) ")
         g_grade = float(goal_input)
         
         break
-        
     except ValueError:
-        print("Your answer MUST be in decimals/integers. Try again.\n")
+        print("--> Error: Your answer MUST be in decimals/integers. Try again.\n")
+
 
 # Defining the calculation function using the validated variables
 def finalgradecalculation():
