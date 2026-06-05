@@ -49,4 +49,10 @@ Day 1: (05/29/26)
       * try, except barely
     Projects:
       final grade calculator (p14.py)
+      fun fact generator + quiz refactor (p15.py)
 ----------------------------------------------
+  Day 7:
+    Skills Learned:
+      random.choice(list(towers.keys())) maybe, not fully.
+    Projects:
+      etoh guessing game slop (p16.py)
