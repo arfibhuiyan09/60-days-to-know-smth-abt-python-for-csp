@@ -1,3 +1,6 @@
+# Day 7 (06/05/26)
+# etoh slop
+
 import random
 
 towers = {
