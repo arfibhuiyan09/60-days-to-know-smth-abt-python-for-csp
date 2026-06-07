@@ -2,7 +2,6 @@
 #Day 8-9: (6/6-7/26)
 
 import time
-import random
 
 arithmetic_dict = {
     "What is 7 + 5? (answer: integer only)": "12",
