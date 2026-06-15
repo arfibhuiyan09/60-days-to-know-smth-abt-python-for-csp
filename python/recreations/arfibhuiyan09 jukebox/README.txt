@@ -5,3 +5,45 @@ light fabricated sound technician (lfst) --> https://drive.google.com/drive/fold
 le idot (li) -> https://drive.google.com/drive/folders/1q1_woAKjZDtv8uEZKCtrWKdcSSY4gefu?usp=sharing <--
 unreleased --> https://drive.google.com/drive/folders/1NVuhRMDjVknbih5PBYTYVIqFHBzxMLF6?usp=drive_link <--
 
+
+SETUP INSTRUCTIONS
+
+1. Install Python and Pygame:
+   pip install pygame
+
+2. Download all audio files from the Google Drive folder.
+
+3. Place the Python script and audio folders in the same directory:
+
+   project_folder/
+   ├── player.py
+   ├── 2_thealbum_themovie/
+   ├── li/
+   ├── lfst/
+   └── unreleased/
+
+4. Do NOT rename any folders or audio files.
+   The filenames must match exactly, including spaces,
+   symbols, accents, and capitalization.
+
+5. Run the script:
+   python player.py
+
+TROUBLESHOOTING
+
+• "No file found" error:
+  - Verify all folders are present.
+  - Verify no files were renamed.
+  - Verify the script is in the same folder as the album folders.
+
+• Audio does not play:
+  - Make sure Pygame is installed.
+  - Confirm your computer audio is working.
+  - Try opening the audio files manually.
+
+• Unicode filename errors:
+  - Re-download the original files.
+  - Avoid changing special characters in filenames.
+
+• If the program crashes immediately:
+  - Run it from a terminal/command prompt and read the error message.
