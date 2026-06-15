@@ -1,1 +1,0 @@
-print(f"{{fighters['name2']}} has {fighters["health1"-damage1]} HP")
