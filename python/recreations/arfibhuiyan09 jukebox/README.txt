@@ -11,12 +11,12 @@ SETUP INSTRUCTIONS
 1. Install Python and Pygame:
    pip install pygame
 
-2. Download all audio files from the Google Drive folder.
+2. Download all audio files from the Google Drive folder (if you havent already)
 
 3. Place the Python script and audio folders in the same directory:
 
    project_folder/
-   ├── player.py
+   ├── p.18.py
    ├── 2_thealbum_themovie/
    ├── li/
    ├── lfst/
@@ -27,7 +27,7 @@ SETUP INSTRUCTIONS
    symbols, accents, and capitalization.
 
 5. Run the script:
-   python player.py
+   python p18.py
 
 TROUBLESHOOTING
 
