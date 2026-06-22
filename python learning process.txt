@@ -76,5 +76,5 @@ Day 1: (05/29/26)
   Skills Learned:
     N/A
   Projects:
-    magic 8-ball in py
+    magic 8-ball in py (p18.py)
 ----------------------------------------------
