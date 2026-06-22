@@ -42,7 +42,7 @@ Day 1: (05/29/26)
     Projects:
       fun fact generator + quiz (p13.py)
 ----------------------------------------------
-  Day 6: 
+  Day 6: (06/04/26)
     Skills Learned:
       * continue
       * range validation via if not
@@ -51,21 +51,30 @@ Day 1: (05/29/26)
       final grade calculator (p14.py)
       fun fact generator + quiz refactor (p15.py)
 ----------------------------------------------
-  Day 7:
+  Day 7: (06/05/26)
     Skills Learned:
       random.choice(list(towers.keys())) maybe, not fully.
     Projects:
       etoh guessing game slop (p16.py)
 ----------------------------------------------
-  Day 8:
+  Day 8: (06/06/26)
     Skills Learned: 
       better understanding of dictionaries ?
     Projects:
       1/2 completed with math quiz diagostic test (p17.py)
 ----------------------------------------------
-  Day 9:
+  Day 9: (06/07/26)
     Skills Learned:
       better understanding how to extract values from functions
     Projects:
       2/2 completed with math quiz diagostic test (p17.py)
+----------------------------------------------
+  Day 10-16 (06/08-14/26):
+  N/A
+----------------------------------------------
+  Day 17 (06/15/26):
+  Skills Learned:
+    N/A
+  Projects:
+    magic 8-ball in py
 ----------------------------------------------
