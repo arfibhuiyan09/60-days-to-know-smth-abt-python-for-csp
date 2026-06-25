@@ -93,16 +93,12 @@ replacements = {
     "6": "5"
 }
 
+table = str.maketrans(replacements)
 def cipher():
     text = input("Enter a phrase to scramble or unscramble: ")
 
-    new_text = ""
+    new_text = text.translate(table)
 
-    for char in text:
-        if char in replacements:
-            new_text += replacements[char]
-        else:
-            new_text += char
     print(new_text)
 
 while True:
