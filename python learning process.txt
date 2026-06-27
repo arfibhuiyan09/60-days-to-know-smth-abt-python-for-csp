@@ -96,3 +96,7 @@ Day 1: (05/29/26)
   Projects:
     reciprocal substitution cipher app (p21.py)
 ----------------------------------------------
+Day 29 (06/27/26)
+Projects:
+  username cleaner (p22.py)
+----------------------------------------------
